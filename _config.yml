@@ -17,8 +17,8 @@ title: 橘ソフト
 #email: doseishan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   2011年よりandroidアプリをメインに開発しています	     
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://doseishan.github.io/tachibanasoft/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tachibanasoft/" # the subpath of your site, e.g. /blog
+url: "https://doseishan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
