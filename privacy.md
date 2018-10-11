@@ -36,7 +36,9 @@ About authority
 　The following two are required to display advertisements
 　　Android.permission.INTERNET
 　　Android.permission.ACCESS_NETWORK_STATE
-
+  The following is required to in-app purchase
+        com.android.vending.BILLING
+	
 About revision of privacy policy
 　In order to comply with laws and ordinances related to personal information,
 　We may revise the privacy policy as necessary.
@@ -80,6 +82,8 @@ About revision of privacy policy
 　以下の2つは広告を表示するために必要となります
 　　android.permission.INTERNET
 　　android.permission.ACCESS_NETWORK_STATE
+  以下の権限はアプリ内購入のために必要となります。
+        com.android.vending.BILLING
 プライバシーポリシーの改訂について
 　個人情報に関連する法令に対応するために、
 　必要に応じてプライバシーポリシーの改訂を行う可能性があります。
@@ -87,5 +91,5 @@ About revision of privacy policy
 
 
 
-version 2018/10/10
+version 2018/10/11
 </pre>
