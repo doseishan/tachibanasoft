@@ -21,9 +21,6 @@ We do not provide personal information to third parties unless it falls under th
 
 Purpose of using personal information
 　We may use it for confirmation of customer's request and purchase information etc, improvement of application quality and service.
-　When dealing with requests from customers within the application,
-　Although there are cases where you posted in the update information that the service content itself was improved
-　In that case, it means that it is a request from a specific customer unless there is consent of the customer.
 
 About ad delivery
 　In the application, we use admob advertisement.
@@ -68,9 +65,7 @@ About revision of privacy policy
     4.司法または行政機関から開示を求められた場合。
 個人情報の利用目的
 　お客様からのご要望や購入情報等の確認、アプリの品質やサービスの向上について利用する場合があります。
-　お客様からのご要望についてアプリ内で対応を行う場合、
-　サービス内容自体を向上させた旨をアップデート情報に載せる場合がありますが
-　その際特定のお客様からのリクエストだということはお客様の同意がない限り伏せさせて頂きます。
+
 広告配信について
 　アプリでは、admob広告を使用しています。
 　広告に関して、お客様の興味関心に合わせた広告が表示される可能性がありますが、
@@ -92,5 +87,5 @@ About revision of privacy policy
 
 
 
-version 2018/10/06
+version 2018/10/10
 </pre>
