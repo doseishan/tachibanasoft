@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "楽譜マスターLiteバージョン1.48公開"
+date:   2019-01-03 15:05:04 +0900
+categories: news
+---
+
+
+楽譜マスターLiteバージョン1.48を公開しました。  
+このバージョンでは、楽曲を5曲増やしました
+増やした楽曲は  
+　花いちもんめ(Hana Ichi Monme)  
+　アヴィニョンの橋の上で(Sur le Pont d'Avignon)  
+　かたつむり(Snail)  
+　げんこつ山のたぬきさん(Raccoon's fist mountain)  
+　故郷(My Country Home)  
+の5曲です。
+
+楽曲は今後も追加していこうと思っておりますので
+どうぞ本アプリをよろしくお願いします。
