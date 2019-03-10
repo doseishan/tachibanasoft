@@ -19,13 +19,6 @@ Java
 　Android開発  
 ActionScript3.0  
 Haskell  
-　TagSoup  
-　TemplateHaskell  
-　Happstack  
-　YesOd  
-　Haxml  
-　Parsec  
-　WxHaskell  
 HTML  
 HTML5  
 CSS  
@@ -70,5 +63,6 @@ Ruby
 OpenGL  
 　Java,C++,Haskellなど色々な環境で触ったことあり  
   
-その他  
-　Project Euler 170問解答 by Haskell  
+その他
+  Git
+　Project Euler 170問正答
