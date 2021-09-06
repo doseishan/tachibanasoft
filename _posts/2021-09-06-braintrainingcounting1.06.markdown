@@ -7,6 +7,6 @@ categories: news
 
 脳トレ！数え上げ(brain training counting)の1.06を公開しました。  
 このバージョンではapkサイズの最適化を行いました(app bundle対応)。  
-ダウンロードは[こちら](https://play.google.com/store/apps/details?id=me.tennkia.android.BrainTrainingCount&hl=ja&gl=US).
+ダウンロードは[こちら](https://play.google.com/store/apps/details?id=me.tennkia.android.BrainTrainingCount&hl=ja&gl=US)から  
 よろしくお願いします
 
